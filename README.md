@@ -24,7 +24,7 @@ df
 
 
 <div>
-<style scoped>
+<style>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1963,7 +1963,7 @@ df.hist(column=["Age"]);
 
 
     
-![png](output_30_0.png)
+![png](images/output_30_0.png)
     
 
 
