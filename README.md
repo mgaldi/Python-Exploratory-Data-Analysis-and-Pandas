@@ -24,7 +24,7 @@ df
 
 
 <div>
-<style>
+<style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1277,7 +1277,7 @@ df.describe()
 
 
 <div>
-<style>
+>>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -2021,7 +2021,7 @@ df_corr
 
 
 <div>
-<style>
+<style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
